@@ -1,0 +1,47 @@
+/* Feisals CSS*/
+
+#nflx-logo {
+    height: -7px;
+    max-width : 100px;
+}
+
+nav {
+    background-color: black;
+}
+
+
+a.nav-link{
+    color:white
+}
+
+.navbar-nav{
+    list-style:none;
+}
+
+#kids {
+    color: white;
+    text-decoration: none;
+    font-size: 2em;
+    padding: .5em;
+}
+
+
+#search-icon {
+    height: -6px;
+    max-width : 20px;
+
+
+}
+
+h2.account {
+    text-align: center;
+    float:left;
+    font-weight: normal;
+
+}
+
+.container {
+    border: 5px solid #FFFF00;
+    display: flex;
+    justify-content: center;
+}
